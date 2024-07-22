@@ -1,0 +1,6 @@
+/blog-express/node_modules
+/blog-react/node_modules
+
+/blog-react/package-lock.json
+/blog-express/package-lock.json
+/blog-express/.env
