@@ -37,7 +37,7 @@
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30000;
+  background: rgba(192, 205, 52, 0.7);
 }
 
 .main-div {
