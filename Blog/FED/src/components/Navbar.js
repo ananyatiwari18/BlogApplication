@@ -51,7 +51,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="logo">
-        <Link to="/">Blogpedia</Link>
+        <Link to="/">Mystic Murmurs</Link>
       </div>
       <div className="main-links">
         <div className="links" id={links ? "hidden" : ""}>

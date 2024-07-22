@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import Navbar from "../components/Navbar";
 import "../css/home.css";
-import img2 from "../images/write.png";
-import img from "../images/read.png";
+import img2 from "../images/write.jpg";
+import img from "../images/read.jpeg";
 import { Link } from "react-router-dom";
 import Footer from "../components/Footer";
 

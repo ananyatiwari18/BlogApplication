@@ -11,7 +11,7 @@
   height: 80px;
   justify-content: space-around;
   align-items: center;
-  border-bottom: 0.5px solid #FF9E9E;
+  border-bottom: 0.5px solid #c0cd34;
   /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(6.5px);
   -webkit-backdrop-filter: blur(6.5px); */
@@ -20,7 +20,7 @@
 .logo a {
   font-size: 38px;
   text-decoration: none;
-  color: #FF9E9E;
+  color: #c0cd34;
   padding: 1.3rem;
   font-weight: 700;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -55,14 +55,14 @@
 
 .links a:hover {
   text-decoration: underline;
-  color: #FF9E9E;
+  color: #c0cd34;
   transition: all ease-in-out 200ms;
   border-radius: 50%;
   
 }
 
 .main-links > img {
-  box-shadow: 5px 5px 30px #df8686;
+  box-shadow: 5px 5px 30px #c0cd34;
   cursor: pointer;
 }
 .main-links > img:hover:focus {

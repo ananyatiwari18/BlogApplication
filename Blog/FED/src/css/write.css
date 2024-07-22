@@ -6,7 +6,7 @@
   width: 70vw;
   height: 75vh;
   border-radius: 10px;
-  background-color: rgba(255, 158, 158, 0.1);
+  background-color: rgba(192, 205, 52, 0.5);
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
@@ -79,7 +79,8 @@ textarea {
 
 .button {
   width: 80%;
-  background-color: rgb(255, 158, 158);
+  background-color: #f8f8f8;
+  margin-top: 50px;
   border: none;
   height: 40px;
   border-radius: 2px;
