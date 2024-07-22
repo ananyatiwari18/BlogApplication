@@ -52,7 +52,7 @@ export default function SignIn() {
             alignItems: 'center',
           }}
         >
-          <Avatar sx={{ m: 1, bgcolor: '#FF9E9E' }}>
+          <Avatar sx={{ m: 1, bgcolor: 'rgba(192, 205, 52, 0.7)', color: "#000000"}}>
             <LockOutlinedIcon />
           </Avatar>
           <Typography component="h1" variant="h5">
@@ -84,7 +84,7 @@ export default function SignIn() {
               fullWidth
               variant="contained"
               sx={{ mt: 3, mb: 2 }}
-              style={{backgroundColor: "#FF9E9E"}}
+              style={{backgroundColor: "rgba(192, 205, 52, 0.7)", color: "#000000"}}
             >
               Sign In
             </Button>
